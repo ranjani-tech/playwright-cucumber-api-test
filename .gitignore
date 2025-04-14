@@ -1,0 +1,43 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm/
+
+# Output of `npm run clean`
+cucumber-report.html
+package-lock.json
+
+# TypeScript cache/output
+*.tsbuildinfo
+dist/
+build/
+
+# VS Code project settings
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Env files
+.env
+.env.*
+
+# Playwright cache
+test-results/
+playwright-report/
+
+# Coverage reports (if using coverage tools)
+coverage/
+
+# Cypress/Playwright or other screenshots/videos
+screenshots/
+videos/
